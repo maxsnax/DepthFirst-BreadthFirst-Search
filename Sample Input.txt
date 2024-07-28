@@ -1,0 +1,9 @@
+[Vertices]
+a
+b
+c
+
+[Edges]
+a b 4
+a c 5
+b c 10
