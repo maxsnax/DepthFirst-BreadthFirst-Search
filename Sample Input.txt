@@ -2,8 +2,18 @@
 a
 b
 c
+d
+e
+f
+g
+
 
 [Edges]
 a b 4
 a c 5
 b c 10
+g a 15
+d a 10
+e a 3
+b f 4
+c g 5
