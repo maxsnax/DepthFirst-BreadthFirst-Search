@@ -1,9 +1,6 @@
 //============================================================================
 // Name        : test6.cpp
 // Author      : Max Schumacher
-// Version     :
-// Copyright   : 
-// Description : Hello World in C++, Ansi-style
 //============================================================================
 
 #include <stdio.h>
@@ -20,10 +17,6 @@ int GetINFINITY() {
 	return -1;
 }
 
-/* You may use this file to test your program.
-	This file will not be submitted, as a different test5.cpp will be used.
-  Every required method is included here so that you can verify that
-		you have included everything the test engine will call. */
 int main(int argv, char **argc) {
 	Graph mainGraph;	// Graph to use for testing
 
